@@ -1,0 +1,14 @@
+.titulo{
+  text-align: center;
+  color: brown;
+  padding: 2px;
+}
+.titulo-formulario{
+  text-align: center;
+  color: crimson;
+  padding: 3px;
+}
+#resultado{
+  text-align: center;
+  color:#116D6E ;
+}
